@@ -149,7 +149,7 @@ Provide a timeline of recent, relevant news articles and Twitter tweets for an a
 
 ### Checkbox
 
-Let's the user to choose between binary values by checking or clearing a check box. It can be configured with yes/no choice columns.
+Let's the user choose between binary values by checking or clearing a check box. It can be configured with yes/no choice columns.
 :::image type="content" source="media/checkbox-control.png" alt-text="Checkbox control at runtime on a main form.":::
 
 ### Number input
